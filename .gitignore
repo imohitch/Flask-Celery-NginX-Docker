@@ -1,0 +1,10 @@
+*.pyc
+__pycache__
+webserverflask/static_old
+delete-pyc.sh
+stop-remove-all-docker.sh
+webserverflask/templates/index_old.html
+webserverflask/templates/show_result_old.html
+logs
+redis_data
+image.jpg
